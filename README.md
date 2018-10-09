@@ -6,3 +6,6 @@
 # Hyperopt:  
     1. https://github.com/hyperopt/hyperopt   
     2. https://github.com/FontTian/hyperopt-doc-zh  
+ 
+# Reference  
+    https://github.com/WillKoehrsen/hyperparameter-optimization
